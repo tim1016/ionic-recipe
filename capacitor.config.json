@@ -1,0 +1,9 @@
+{
+  "appId": "com.ionicrecipeopnic capc",
+  "appName": "project1",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {},
+  "linuxAndroidStudioPath": "/home/inkant/android-studio/bin/studio.sh"
+}
